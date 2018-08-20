@@ -3,7 +3,7 @@ This is aoapc-code clone from [https://code.google.com/p/aoapc-book/]
 #original readme.md
 ##aoapc-bac2nd
 
-Source codes for book <<BeginningAlgorithmContests>> Second edition
+//Source codes for book <<BeginningAlgorithmContests>> Second edition
 
 Where to buy the book?
 
